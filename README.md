@@ -8,9 +8,6 @@ Análisis de ventas y clientes, con un dashboard ejecutivo en Excel.
 ## 📊 Contenido
 - `data_final/` → datasets limpios (CSV)  
 - `data_raw/` → datos originales : ## Archivo original
-Debido al tamaño (>25 MB), el archivo completo no se puede alojar en GitHub.  
-📁 [Descargar Dashboard completo en Google Drive](https://drive.google.com/...) 
-- `notebooks/` → exploración en Jupyter  
 - `exports/` → versión exportada del dashboard en PDF/PNG  
 - `dashboard_ecommerce.xlsx` → dashboard principal  
 
